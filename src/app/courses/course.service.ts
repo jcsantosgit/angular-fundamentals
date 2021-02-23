@@ -17,42 +17,42 @@ let courses: Course [] = [
         imageUrl: '/assets/images/angular.png',
         description: 'Curso realizado na Digital Innovation One',
         price: 199.80,
-        code: '001',
+        code: 'kdj-001',
         duration: 45,
         rating: 4.0,
-        releaseDate: 'Desember, 2, 2021'
-    },
-    {
+        releaseDate: '2/12/2020'
+        },
+        {
         id:2,
         name: 'Angular Fullstack Developer',
         imageUrl: '/assets/images/angular-fullstack.jpg',
         description: 'Curso realizado na Digital Innovation One',
         price: 350.90,
-        code: '002',
+        code: 'hgj-002',
         duration: 45,
         rating: 4.0,
-        releaseDate: 'January, 5, 2021'
-    },
-    {
+        releaseDate: '1/1/2021'
+        },
+        {
         id:3,
         name: 'C# Developer',
         imageUrl: '/assets/images/csharp.png',
         description: 'Curso realizado na Digital Innovation One',
         price: 480.00,
-        code: '003',
+        code: 'dkh-003',
         duration: 55,
         rating: 5.0,
-        releaseDate: 'Febrary, 2, 2021'
-    },
-    {
+        releaseDate: '2/6/2021'
+        },
+        {
         id:3,
         name: 'Java Developer',
         imageUrl: '/assets/images/java.png',
         description: 'Curso realizado na Digital Innovation One',
         price: 600.00,
-        code: '004',
+        code: 'fdt-004',
         duration: 55,
         rating: 5.0,
-        releaseDate: 'Febrary, 2, 2021'
-    }            
-]
+        releaseDate: '4/6/2021'
+    }    
+];

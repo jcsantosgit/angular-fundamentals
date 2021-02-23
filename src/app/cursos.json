@@ -1,0 +1,44 @@
+{
+    id:1,
+    name: 'Curso Angular 8',
+    imageUrl: '/assets/images/angular.png',
+    description: 'Curso realizado na Digital Innovation One',
+    price: 199.80,
+    code: '001',
+    duration: 45,
+    rating: 4.0,
+    releaseDate: 'Desember, 2, 2021'
+    },
+    {
+    id:2,
+    name: 'Angular Fullstack Developer',
+    imageUrl: '/assets/images/angular-fullstack.jpg',
+    description: 'Curso realizado na Digital Innovation One',
+    price: 350.90,
+    code: '002',
+    duration: 45,
+    rating: 4.0,
+    releaseDate: 'January, 5, 2021'
+    },
+    {
+    id:3,
+    name: 'C# Developer',
+    imageUrl: '/assets/images/csharp.png',
+    description: 'Curso realizado na Digital Innovation One',
+    price: 480.00,
+    code: '003',
+    duration: 55,
+    rating: 5.0,
+    releaseDate: 'Febrary, 2, 2021'
+    },
+    {
+    id:3,
+    name: 'Java Developer',
+    imageUrl: '/assets/images/java.png',
+    description: 'Curso realizado na Digital Innovation One',
+    price: 600.00,
+    code: '004',
+    duration: 55,
+    rating: 5.0,
+    releaseDate: 'Febrary, 2, 2021'
+}
